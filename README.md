@@ -9,7 +9,7 @@
 
   Animals can experience time differently from humans. To smaller animals, the world around them moves more slowly compared to humans. Salamanders and lizards, for example, experience time more slowly than cats and dogs. This is because the perception of time depends on how quickly the brain can process incoming information.
 
-The Sun makes a sound but we can't hear it. In the form of pressure waves, the Sun does make a sound. The wavelength of the pressure waves from the Sun is measured in hundreds of miles, however, meaning they are far beyond the range of human hearing.
+  The Sun makes a sound but we can't hear it. In the form of pressure waves, the Sun does make a sound. The wavelength of the pressure waves from the Sun is measured in hundreds of miles, however, meaning they are far beyond the range of human hearing.
 
 <!---
 jl-garnier/jl-garnier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
